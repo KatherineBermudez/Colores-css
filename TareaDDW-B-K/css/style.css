@@ -1,0 +1,18 @@
+.Example-names{
+  background-color: Aquamarine;
+} 
+.Example-hex{
+  background-color: #7FFFD4; 
+} /*hex-6 digitos*/
+.Example-rgb{
+  background-color: rgb(255, 0, 0);
+}/*solo rojo*/
+.Example-rgba{
+  background-color: rgba(0, 0, 255, 0.2);
+} /*con opacidad*/ /*0.0 transparente*/
+.Example-hsl{
+ 	background-color: hsl(120, 100%, 50%);    /* verde */
+}/*tono, saturacion, luminosidad */
+.Example-hsla{
+	background-color: hsla(120, 100%, 50%, 0.3);  /* verde con opacidad */
+}/*tono, saturacion, luminosidad, alfa (opacidad) 0.0  transparente */
